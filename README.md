@@ -10,6 +10,7 @@
 
 ### Alternative Ways :
 You can directly just drag & drop the **extension-build.zip** into **chrome://extensions/**<br>
+
 **Note:** You need to select the folder in which the manifest file exists. In the screenshot, we have selected the installer folder inside Unzipped folder as it is the installer folder for our extension.
 Example Solana wallet with support for [SPL tokens](https://spl.solana.com/token) and Serum integration.
 
