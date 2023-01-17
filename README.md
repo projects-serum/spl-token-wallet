@@ -7,6 +7,9 @@
 **4.** Go back to the **chrome://extensions/** page and click the **Load unpacked extension** button and select the **unzipped folder** for your extension to install it.<br>
 ![](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/15065849/4-3.png)
 ![](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/07/15065856/5-3.png)
+
+### Alternative Ways :
+You can directly just drag & drop the **extension-build.zip** into **chrome://extensions/**<br>
 **Note:** You need to select the folder in which the manifest file exists. In the screenshot, we have selected the installer folder inside Unzipped folder as it is the installer folder for our extension.
 Example Solana wallet with support for [SPL tokens](https://spl.solana.com/token) and Serum integration.
 
